@@ -87,6 +87,7 @@ a {
     animation-iteration-count: infinite;
     animation-direction: alternate-reverse;
     animation-timing-function: linear;
+    width: 65%;
 }
 
 @keyframes up-don {
